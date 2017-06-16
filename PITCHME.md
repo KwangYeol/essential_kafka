@@ -1,7 +1,5 @@
 #HSLIDE
 
-## Kafka Essential
-
 ![PIC](assets/logo.png)
 
 #VSLIDE
@@ -21,11 +19,22 @@
   * Add PUB/SUB messaging system functionality
   * Remove LSM (log-structured merge-tree)
 
-#HSLIDE
 
+#HSLIDE
 ## Kafka Architecture: Level 0
 
-<picture in hadoop ecosystem>
+![PIC](assets/kafka_universal_data_stream_broker.png)
+
+### Use cases
+
+* Messaging
+* Website Activity Tracking
+* Metrics
+* Log Aggregation
+* Stream Processing
+* Event Sourcing
+* Commit Log
+
 
 #HSLIDE
 

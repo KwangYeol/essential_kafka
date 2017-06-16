@@ -1,0 +1,4 @@
+logo: https://pagerduty.github.io/gitpitch-deck/assets/images/pagerduty-logo.svg
+theme-override: assets/css/PITCHME.css
+background: https://pagerduty.github.io/gitpitch-deck/assets/images/wallpaper-gray-3-535.jpg
+background-size: cover
